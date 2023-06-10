@@ -7,6 +7,7 @@ LMS is designed to automate routine library tasks such as adding new books,addin
 
 It is a project developed and run on a windows operating system.Changing the file path (replacing backward slash by forward slash) may help to execute the project on any system.
 
+
 How to setup the project on a local machine?
 
 1.Download the project onto the local machine(PC).
