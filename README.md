@@ -16,9 +16,9 @@ How to setup the project on a local machine?
 4.Enter the necesssary data(id and password) from the txt files available so that one can get access to the menu.
 5.Choose the action appropriately to perform different library tasks.
 
-cpp files   : main.cpp,load_data.cpp,input_action.cpp,book.cpp,student.cpp,issue_book.cpp,student_functions.cpp,emp_functions.cpp
-text files  : book.txt,student_info.txt,lib_emp.txt,book_issue.txt
-              book_issue_dup.txt,student_info.txt(duplicate files used inorder to update data in the above txt files).
+cpp files   : main.cpp,load_data.cpp,input_action.cpp,book.cpp,student.cpp,issue_book.cpp,student_functions.cpp,emp_functions.cpp     
+text files  : book.txt,student_info.txt,lib_emp.txt,book_issue.txt       
+              book_issue_dup.txt,student_info.txt(duplicate files used inorder to update data in the above txt files).       
 header file : header.h
 
 Detailed explanation of the files and the functions:
@@ -31,17 +31,17 @@ input_action.cpp:displays the menu and verifies the id and password of the user 
 
 book.cpp,student.cpp and issue_book.cpp:contains the functions to insert node and balance the respective avl tree.
 
-student_functions.cpp:contains functions that performs student tasks such as
-1.search books by book_id
-2.search books by book_name
-3.search books by author_name
-4.view all the books available
-5.books issued by the student
+student_functions.cpp:contains functions that performs student tasks such as      
+1.search books by book_id      
+2.search books by book_name    
+3.search books by author_name   
+4.view all the books available   
+5.books issued by the student   
 6.Calculate Fine             
 
-emp_funtions.cpp:performs tasks that can be done by a librarian such as
-1.Add new students 
-2.Add new books              
+emp_funtions.cpp:performs tasks that can be done by a librarian such as   
+1.Add new students    
+2.Add new books               
 3.Issue the book                 
 4.Return the book             
 5.Renew the book                 
