@@ -9,11 +9,11 @@ It is a project developed and run on a windows operating system.Changing the fil
 
 
 How to setup the project on a local machine?
-
-1.Download the project onto the local machine(PC).
-2.Change the file path(if not windows OS).
-3.Compile and execute the main.cpp file.
-4.Enter the necesssary data(id and password) from the txt files available so that one can get access to the menu.
+     
+1.Download the project onto the local machine(PC).      
+2.Change the file path(if not windows OS).      
+3.Compile and execute the main.cpp file.     
+4.Enter the necesssary data(id and password) from the txt files available so that one can get access to the menu.      
 5.Choose the action appropriately to perform different library tasks.
 
 cpp files   : main.cpp,load_data.cpp,input_action.cpp,book.cpp,student.cpp,issue_book.cpp,student_functions.cpp,emp_functions.cpp     
